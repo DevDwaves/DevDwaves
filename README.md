@@ -37,10 +37,6 @@
   <img src="https://leetcard.jacoblin.cool/DevD_01?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
 </div>
 
-### 📅 Submission Calendar
-<div align="center">
-  <img src="https://leetcode-badge.vercel.app/api/users/DevD_01/calendar" alt="LeetCode Calendar" />
-</div>
 
 ### 📈 GitHub Profile Summary
 <p align="center">
