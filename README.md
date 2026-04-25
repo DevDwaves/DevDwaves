@@ -53,16 +53,9 @@
 # 📊 Coding Activity & Stats
 
 ### 🚀 LeetCode Performance
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://leetcode-stats-six.vercel.app/api?username=DevD_01&theme=dark" alt="LeetCode Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://leetcode-badge.vercel.app/api/users/DevD_01/calendar" alt="LeetCode Calendar" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/DevD_01?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
+</div>
 
 ### 📈 GitHub Stats
 <p align="center">
