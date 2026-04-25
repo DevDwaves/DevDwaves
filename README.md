@@ -1,25 +1,29 @@
- #💫 About Me: 
-🎓 Student at SRMIST Ghaziabad  
+# 💫 About Me: 
+🎓 **Student at SRMIST Ghaziabad** 🔭 **I’m currently working on:**
+* **Machine Learning & Python projects:** Time Series Forecasting, Customer Churn Prediction, and NLP Chatbots.
+* **Full-Stack Applications:** Integrating ML models with modern web technologies.
+* **Databases:** Managing complex data with SQL (MySQL, MS SQL Server) and MongoDB.
 
-🔭 I’m currently working on Machine Learning, Python projects, SQL databases, and Web Development applications.  
-• Time Series Forecasting Project – Predicting future trends using historical datasets.  
-• Customer Churn Prediction System – Classification model to predict customer retention.  
-• Customer Support Chatbot – Basic NLP chatbot for automated responses.  
+• **Time Series Forecasting Project** – Predicting future trends using historical datasets.  
+• **Customer Churn Prediction System** – Classification model to predict customer retention.  
+• **Customer Support Chatbot** – Basic NLP chatbot for automated responses.  
 
-👯 I’m looking to collaborate on ML-based projects, beginner-friendly open-source contributions, and web applications.  
+👯 **I’m looking to collaborate on:** ML-based projects, beginner-friendly open-source contributions, and web applications.  
 
-🤝 I’m looking for help with advanced ML model deployment and full-stack ML integration.  
+🤝 **I’m looking for help with:** Advanced ML model deployment and full-stack ML integration.  
 
-🌱 I’m currently learning Machine Learning, Python, SQL, and modern Web Development technologies.  
+🌱 **I’m currently learning:** Deep Learning, advanced SQL optimization, and modern Web Development frameworks.  
 
-💬 Ask me about Python, basic Machine Learning concepts, SQL queries, and beginner web development.  
+💬 **Ask me about:** Python, Machine Learning concepts, SQL queries, and beginner web development.  
 
-⚡ Fun fact: I enjoy turning real-world problems into small ML or web projects while learning something new every day.  
+⚡ **Fun fact:** I enjoy turning real-world problems into small ML or web projects while learning something new every day.  
 
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshverma01)  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isdevd02@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isdevd02@gmail.com) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/DevD_01/)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
@@ -44,4 +48,24 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
+---
 
+# 📊 Coding Activity & Stats
+
+### 🚀 LeetCode Performance
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://leetcode-stats-six.vercel.app/api?username=DevD_01&theme=dark" alt="LeetCode Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://leetcode-badge.vercel.app/api/users/DevD_01/calendar" alt="LeetCode Calendar" />
+    </td>
+  </tr>
+</table>
+
+### 📈 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DevDwaves&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDwaves&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
